@@ -25,6 +25,7 @@ INSTRUCTOR INFORMATION
 **Class Meeting Times**
 
 ::
+
     Lecture: T/Th 9.30am - 10.45am @ CENT-1032
     Lab: Fri 1.00pm - 1.50pm @ CENT-B146A
 
@@ -56,7 +57,7 @@ With this goal in mind, the tentative set of topics we will cover are:
 
 **Grading**: Grading will be based on participation (10%), a set of programming assignments (35%), homeworks (20%), a midterm exam (15%) and a final exam (20%).
 
-CLASS POLICIES
+Class Policies
 ~~~~~~~~~~~~~~
 
 **Special Accomodations**: The University of New Mexico is committed to providing equal access to educational and employment opportunities for qualified individuals with disabilities. The University shall make reasonable accommodation to the known physical or mental limitations of a qualified individual with a disability, unless the University can show that providing an accommodation would impose an undue hardship. While I cannot anticipate each student's needs, my goal to ensure that each student has the acocomodations necessary to enjoy a comfortable and supportive environment. If you require special accomodations, please notify me as soon as possible, so that the University and I can meet your needs in an timely and effective manner.
