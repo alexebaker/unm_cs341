@@ -1,0 +1,7 @@
+include Makefile.base
+
+all: hello
+
+hello:
+	cd code; $(MAKE) -w; cd ..
+

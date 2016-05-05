@@ -1,0 +1,14 @@
+# Example Makefile - Naming targets (using variables)
+# Does the same thing as Makefile.1
+
+TARGET = test
+
+$(TARGET): # Target has no dependencies, always perform action
+	touch $(TARGET)
+
+# Phony targets don't represent files, i.e., we'll never have
+# a file that's acutally called 'clean'. Clean is a common target
+# used to "clean up" a directory - often removing executalbes and tmp files
+.PHONY: clean
+clean:
+	\rm -f $(TARGET)

@@ -1,0 +1,11 @@
+# Makefiles can be recursive, note the use of $(MAKE) -w
+
+all: compile
+
+.PHONY: compile
+compile: [a-z]*
+	@for dir in $^; do\
+	  if ( test -d $$dir ); then \
+	    cd $$dir; $(MAKE) -w; cd ..;\
+	  fi; \
+	done

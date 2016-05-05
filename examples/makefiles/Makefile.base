@@ -1,0 +1,11 @@
+# This makefile is the base for some other files, it contains standard template
+# targets that maybe we use often...
+
+export CC=gcc
+export CFLAGS=-Wall -ansi -pedantic
+
+.PHONY: clean
+clean:
+	\rm -f $(TARGETS) *.bak *~ *.*~ a.out
+
+
