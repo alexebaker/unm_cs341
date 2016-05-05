@@ -1,1 +1,6 @@
-.. include:: syllabus.rst
+Syllabus:
+
+.. toctree::
+    :maxdpeth: 2
+
+    syllabus.rst
