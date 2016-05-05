@@ -1,6 +1,1 @@
-Syllabus:
-
-.. toctree::
-    :maxdpeth: 2
-
-    syllabus
+syllabus.rst
