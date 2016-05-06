@@ -1,0 +1,3 @@
+[submodule "assignments/unm_cs341_cache-sim"]
+	path = assignments/unm_cs341_cache-sim
+	url = git@github.com:alexebaker/unm_cs341_cache-sim.git
