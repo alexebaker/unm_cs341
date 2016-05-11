@@ -1,3 +1,9 @@
 [submodule "assignments/unm_cs341_cache-sim"]
 	path = assignments/unm_cs341_cache-sim
 	url = git@github.com:alexebaker/unm_cs341_cache-sim.git
+[submodule "assignments/unm_cs341_pwl"]
+	path = assignments/unm_cs341_pwl
+	url = git@github.com:alexebaker/unm_cs341_pwl.git
+[submodule "assignments/unm_cs341_binary-bomb"]
+	path = assignments/unm_cs341_binary-bomb
+	url = git@github.com:alexebaker/unm_cs341_binary-bomb.git
